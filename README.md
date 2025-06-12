@@ -1,2 +1,2 @@
-# spiderbot10
+# SPIDERBOT
 SpiderBot: Proyecto Final
